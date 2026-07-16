@@ -37,7 +37,7 @@ void loop() {
   // Eğer ilk butona basılmışsa (LOW durumda)
   if (buttonState1 == LOW) {
     // 1977GD1984 yaz ve Enter'a bas
-    Keyboard.print("1977GD1984");
+    Keyboard.print("");
     Keyboard.write(KEY_RETURN);  // Enter tuşuna bas
     delay(500);  // Tuşu bırakmadan önce biraz bekle
   }
