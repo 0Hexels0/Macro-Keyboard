@@ -36,8 +36,8 @@ void loop() {
 
   // Eğer ilk butona basılmışsa (LOW durumda)
   if (buttonState1 == LOW) {
-    // İnstagram yaz ve Enter'a bas
-    Keyboard.print("PC_PASSWORD");
+    // Bilgisayarınızın şifresini girer ve Enter'a basar
+    Keyboard.print("PC_PASSWORD");// "PC_PASSWORD" yazan yere Bilisayarınızın şifresini girin
     Keyboard.write(KEY_RETURN);  // Enter tuşuna bas
     delay(500);  // Tuşu bırakmadan önce biraz bekle
   }
