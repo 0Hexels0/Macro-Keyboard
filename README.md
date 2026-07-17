@@ -5,7 +5,7 @@ Bilgisayarınıza bağlayıp kısayol tuşlarını atayabileceğiniz bir macro k
 
 
 
-# NOT!
-Kodda ben 1,2,3 ve 4. tuşları kullandım ama Proje toplam 6 tuştan oluşuyor tabi siz bu tuş sayısını kendi isteğinize göre değiştirebilirsiniz
+# Devre Şeması
+
 
 <img width="857" height="674" alt="image" src="https://github.com/user-attachments/assets/bed3bd76-01af-4220-a2ed-98c0023cca83" />
